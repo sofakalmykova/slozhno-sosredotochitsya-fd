@@ -1,3 +1,14 @@
+:root {
+  --background-image: url(../images/cover-image-dark.png);
+  --main-color: #000028;
+  --title-color: #DB00FF;
+  --accent-color: #FF0070;
+  --accent-color-transparent: rgba(255, 0, 112, 0.4);
+  --text-color-accent: #FF0070;
+  --texts-color-main: #F1B2CE;
+  --rec-display: flex;
+}
+
 /*
   Переменные для вашего проекта
   и их переопределение под различные устройства
